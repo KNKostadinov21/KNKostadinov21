@@ -1,6 +1,6 @@
 ↬ Hello, I am Kristiyan Kostadinov.
 
-↬ 15-years old
+↬ 15 years old
 
 ↬ Burgas
 
