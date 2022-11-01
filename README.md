@@ -6,13 +6,13 @@
 
 ↬ Currently learning: 
 <br>
-⤷    C#
+⤷ㅤC#
 <br>
-⤷    C++
+⤷ㅤC++
 <br>
-⤷    HTML
+⤷ㅤHTML
 <br>
-⤷    CSS
+⤷ㅤCSS
 
 ↬ Some piece of the things that I'm interested ..
 
