@@ -10,7 +10,7 @@
 <br>
 ㅤ⤷ C++
 <br>
-  ⤷ HTML
+ㅤ⤷ HTML
 <br>
 ㅤ⤷ CSS
 
