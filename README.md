@@ -23,7 +23,7 @@
 ![image](https://img.shields.io/badge/photo-Shoots-white?style=for-the-badge&logo=appveyor)
  
 ### 𝕱𝖊𝖊𝖑 𝖋𝖗𝖊𝖊 𝖙𝖔 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊 𝖆𝖑𝖘𝖔 𝖎𝖓:
-<a href = "![image](https://img.shields.io/badge/Outlook-5C2D91?style=for-the-badge&logo=outlook&logoColor=white)"</a>
+![image](https://img.shields.io/badge/Outlook-5C2D91?style=for-the-badge&logo=outlook&logoColor=white)
 
 ↬ My email: KNKostadinov21@codingburgas.bg 
 
