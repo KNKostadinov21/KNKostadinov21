@@ -21,7 +21,7 @@
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/photo-Shoots-white?style=for-the-badge&logo=appveyor)
- 
+![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fraw.githubusercontent.com%2Fisocpp%2Flogos%2Fmaster%2Fcpp_logo.png&imgrefurl=https%3A%2F%2Fgithub.com%2Fisocpp%2Flogos&tbnid=-Xmy4EXL86X89M&vet=12ahUKEwjwjKvsqJH7AhXw_rsIHWnnDWUQMygAegUIARCeAQ..i&docid=8PEeGHOSawj3cM&w=918&h=1032&q=c%2B%2B%20badge&client=ms-android-huawei&ved=2ahUKEwjwjKvsqJH7AhXw_rsIHWnnDWUQMygAegUIARCeAQ) 
 ### 𝕱𝖊𝖊𝖑 𝖋𝖗𝖊𝖊 𝖙𝖔 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊 𝖆𝖑𝖘𝖔 𝖎𝖓:
 ![image](https://img.shields.io/badge/Outlook-5C2D91?style=for-the-badge&logo=outlook&logoColor=white)
 
