@@ -20,7 +20,7 @@
 ![image](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual%20studi%20codeo&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![image]([https://img.shields.io/badge/c++-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://camo.githubusercontent.com/f8680828659ba5d0d87ccdc257ad2174db5f9e2f18345a5a0b171f261ceffd44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d63706c7573706c7573))
+![image](https://img.shields.io/badge/c++-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/photo-Shoots-white?style=for-the-badge&logo=appveyor)
 ### 𝕱𝖊𝖊𝖑 𝖋𝖗𝖊𝖊 𝖙𝖔 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊 𝖆𝖑𝖘𝖔 𝖎𝖓:
