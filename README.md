@@ -23,8 +23,7 @@
 ![image](https://img.shields.io/badge/c++-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/photo-Shoots-white?style=for-the-badge&logo=appveyor)
-![image](https://img.shields.io/badge/html5-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![image](https://img.shields.io/badge/css3-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 ### 𝕱𝖊𝖊𝖑 𝖋𝖗𝖊𝖊 𝖙𝖔 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊 𝖆𝖑𝖘𝖔 𝖎𝖓:
 ![image](https://img.shields.io/badge/Outlook-5C2D91?style=for-the-badge&logo=outlook&logoColor=white)
 
