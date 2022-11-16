@@ -41,10 +41,9 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=deniitooou&style=for-the-badge&color=blue)
 
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats%22%3E
-      <img src="https://github-readme-stats.vercel.app/api?username=KNKostadinov21&theme=radical&show_icons=true" height="180">
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=KNKostadinov21&theme=radical&show_icons=true" height="180">
     <a href="https://github.com/anuraghazra/github-readme-stats%22%3E
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNKostadinov21&layout=compact&theme=radical"  height="180">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNKostadinov21&layout=compact&theme=radical" height ="180">
     </a>
    </p>
