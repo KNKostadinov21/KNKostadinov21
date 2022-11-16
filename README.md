@@ -11,6 +11,7 @@
   <h2 align="center">↬ Burgas </h2> 
   <h2 align="center">↬ Student at Software University - SoftUni </h2>
 <h2 align="center">↬ Currently learning: </h2>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ↬ C#
 
 <h1 align="center">𝕾𝖔𝖒𝖊 𝖕𝖎𝖊𝖈𝖊 𝖔𝖋 𝖙𝖍𝖊 𝖙𝖍𝖎𝖓𝖌𝖘 𝖙𝖍𝖆𝖙 𝕴'𝖒 𝖎𝖓𝖙𝖊𝖗𝖊𝖘𝖙𝖊𝖉: </h1>
  
