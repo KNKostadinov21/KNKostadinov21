@@ -2,8 +2,7 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=3695F7&size=32&center=true&vCenter=true&lines=Hello%2C+World!;My+name+is+Kristiyan.;Welcome+to+my+profile!%22%3E">
 </h1>
 <p align="center">
-        <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E
-          <img src="https://github-profile-trophy.vercel.app/?username=KNKostadinov21&theme=radical&column=7%22%3E"></a>
+          <img src="https://github-profile-trophy.vercel.app/?username=KNKostadinov21&theme=radical&column=7%22%3E">
       </p>
 <h2 align="center">↬ My name is Kristiyan Kostadinov</h2> 
   <h2 align="center">↬ 15 years old </h2> 
