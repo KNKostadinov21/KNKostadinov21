@@ -1,5 +1,4 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg%22%3E
    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=3695F7&size=32&center=true&vCenter=true&lines=Hello%2C+World!;My+name+is+Kristiyan.;Welcome+to+my+profile!%22%3E">
 </h1>
 <h2 align="center">↬ My name is Kristiyan Kostadinov</h2> 
