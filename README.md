@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=3695F7&size=32&center=true&vCenter=true&lines=Hello%2C+World!;My+name+is+Kristiyan.;Welcome+to+my+profile!%22%3E>](https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=3695F7&size=32&center=true&vCenter=true&lines=Hello%2C+World!;My+name+is+Kristiyan;Welcome+to+my+profile!%22%3E)
+<a href="https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=3695F7&size=32&center=true&vCenter=true&lines=Hello%2C+World!;My+name+is+Kristiyan.;Welcome+to+my+profile!%22%3E>](https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=3695F7&size=32&center=true&vCenter=true&lines=Hello%2C+World!;My+name+is+Kristiyan;Welcome+to+my+profile!%22%3E)
 </h1>
 <br>
 <p align="center">
