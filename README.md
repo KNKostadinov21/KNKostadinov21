@@ -1,21 +1,19 @@
-↬ Hello, I am Kristiyan Kostadinov.
+<h1 align="center">
+  <a href="https://git.io/typing-svg%22%3E
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&color=3695F7&size=32&center=true&vCenter=true&lines=Hello%2C+World!;My+name+is+Kristiyan.;Welcome+to+my+profile!%22%3E
+</h1>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy%22%3E
+    <img src="https://github-profile-trophy.vercel.app/?username=KNKostadinov21&theme=radical&column=7%22%3E
+</p>
+<h2 align="center">↬ My name is Kristiyan Kostadinov</h2> 
+  <h2 align="center">↬ 15 years old </h2> 
+  <h2 align="center">↬ Burgas </h2> 
+  <h2 align="center">↬ Student at Software University - SoftUni </h2>
+<h2 align="center">↬ Currently learning: </h2>
 
-↬ 15 years old
-
-↬ Burgas
-
-↬ Currently learning:
-<br> 
-ㅤ⤷ C#
-<br>
-ㅤ⤷ C++
-<br>
-ㅤ⤷ HTML
-<br>
-ㅤ⤷ CSS
-
-↬ Some piece of the things that I'm interested in..
-
+<h1 align="center">𝕾𝖔𝖒𝖊 𝖕𝖎𝖊𝖈𝖊 𝖔𝖋 𝖙𝖍𝖊 𝖙𝖍𝖎𝖓𝖌𝖘 𝖙𝖍𝖆𝖙 𝕴'𝖒 𝖎𝖓𝖙𝖊𝖗𝖊𝖘𝖙𝖊𝖉: </h1>
+ 
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -23,13 +21,21 @@
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/photo-Shoots-white?style=for-the-badge&logo=appveyor)
 
-### 𝕱𝖊𝖊𝖑 𝖋𝖗𝖊𝖊 𝖙𝖔 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊 𝖆𝖑𝖘𝖔 𝖎𝖓:
+<h1 align="center">𝕱𝖊𝖊𝖑 𝖋𝖗𝖊𝖊 𝖙𝖔 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊 𝖆𝖑𝖘𝖔 𝖎𝖓: </h1> 
+
 ![image](https://img.shields.io/badge/Outlook-5C2D91?style=for-the-badge&logo=outlook&logoColor=white)
 
-↬ My email: KNKostadinov21@codingburgas.bg 
+↬ My email: KNKostadinov21@codingburgas.bg
 
-### 𝕾𝖔𝖒𝖊 𝖘𝖙𝖆𝖙𝖎𝖘𝖙𝖎𝖈 𝖋𝖔𝖗 𝖒𝖞 𝕲𝖎𝖙𝕳𝖚𝖇 𝖕𝖗𝖔𝖋𝖎𝖑𝖊:
-<p>
-<img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KNKostadinov21&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true" />
+<h1 align="center">𝕾𝖔𝖒𝖊 𝖘𝖙𝖆𝖙𝖎𝖘𝖙𝖎𝖈 𝖋𝖔𝖗 𝖒𝖞 𝕲𝖎𝖙𝕳𝖚𝖇 𝖕𝖗𝖔𝖋𝖎𝖑𝖊: </h1>
 
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNKostadinov21&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
+![Profile View Counter](https://komarev.com/ghpvc/?username=deniitooou&style=for-the-badge&color=blue)
+
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats%22%3E
+      <img src="https://github-readme-stats.vercel.app/api?username=KNKostadinov21&theme=radical&show_icons=true" height="180">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats%22%3E
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KNKostadinov21&layout=compact&theme=radical"  height="180">
+    </a>
+   </p>
