@@ -22,7 +22,7 @@
 ![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![image][(https://img.shields.io/badge/c++-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://camo.githubusercontent.com/7f08673c1a1e8adeefe7e7f8ca0571259418c4320cf821c95c93b0980d99ec87/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f36343070782d49534f5f432532422532425f4c6f676f2e7376672e706e67))
+![image](https://img.shields.io/badge/c++-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/photo-Shoots-white?style=for-the-badge&logo=appveyor)
 
