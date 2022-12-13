@@ -5,7 +5,7 @@
 <h2 align="center">↬ My name is Kristiyan Kostadinov</h2> 
   <h2 align="center">↬ 15 years old </h2> 
   <h2 align="center">↬ Burgas </h2> 
-  <h2 align="center">↬ Student at Software University - SoftUni </h2>
+  <!--<h2 align="center">↬ Student at Software University - SoftUni </h2> -->
 <h2 align="center">↬ Currently learning:
 <br>
 ↬ C#
