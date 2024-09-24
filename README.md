@@ -3,7 +3,7 @@
 <h1 align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=KNKostadinov21&theme=radical&column=7%22%3E"> </h1>     
 <h2 align="center">↬ My name is Kristiyan Kostadinov</h2> 
-  <h2 align="center">↬ 15 years old </h2> 
+  <h2 align="center">↬ 16 years old </h2> 
   <h2 align="center">↬ Burgas </h2> 
   <!--<h2 align="center">↬ Student at Software University - SoftUni </h2> -->
 <h2 align="center">↬ Currently learning:
@@ -11,6 +11,8 @@
 ↬ C#
 <br>
 ↬ C++
+<br>
+↬ Python
 <br>
 ↬ HTML5
 <br>
